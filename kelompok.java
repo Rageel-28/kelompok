@@ -11,5 +11,16 @@ public class kelompok {
         System.out.println("Alamat   : Jl Dieng Atas");
         System.out.println("No HP    : 0895630887958");
         System.out.println("Hobi     : Kuliner");
+         System.out.println("---------------------------------------------------------");
+        System.out.println("-- Data Mahasiswa Jurusan Teknologi Informasi POLINEMA --");
+        System.out.println("---------------------------------------------------------");
+        System.out.println("Nama    : HAFIZ RIZQI HERNANDA");
+        System.out.println("NIM     : 244107020154");
+        System.out.println("Kelas   : TI_1B");
+        System.out.println("No Absen: 12");
+        System.out.println("Prodi   : Teknologi Informasi");
+        System.out.println("Alamat  : Jalan Senggani");
+        System.out.println("No HP   : 082143183969");
+        System.out.println("Hobi    : Membaca Komik");
     }
 }
